@@ -1,0 +1,1 @@
+export  const urlJson = "http://metanode.vipn.net/eng.json";
